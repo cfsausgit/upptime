@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/cfsurveys.io",
     "slug": "url-shortener",
     "status": "up",
-    "uptime": "6.92%",
-    "uptimeDay": "6.92%",
-    "uptimeWeek": "6.92%",
-    "uptimeMonth": "6.92%",
-    "uptimeYear": "6.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 782,
     "timeDay": 782,
     "timeWeek": 782,
     "timeMonth": 782,
     "timeYear": 782,
-    "dailyMinutesDown": {
-      "2022-02-06": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snap Webhost",
