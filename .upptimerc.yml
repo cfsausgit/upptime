@@ -1,21 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: cfsausgit # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: CFS Website
+    url: https://www.cfs-australasia.com
+  - name: Front End
+    url: https://connect.cfs-australasia.com
+  - name: URL Shortener
+    url: https://cfsurveys.io
+  - name: Snap Webhost
+    url: https://surveys.cfs-australasia.com
+  - name: Survey To Go
+    url: https://audits.cfs-australasia.com
+  - name: Grafana
+    url: https://grafana.cfs-australasia.com
+  - name: Argo
+    url: https://argo.cfs-australasia.com
+  - name: Audit Angels Ambulance Victoria - Test
+    url: https://test-audits.ambulance.vic.gov.au
+  - name: Audit Angels Ambulance Victoria - Prod
+    url: https://audits.ambulance.vic.gov.au
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
