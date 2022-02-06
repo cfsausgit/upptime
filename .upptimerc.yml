@@ -8,7 +8,7 @@ sites:
   - name: Front End
     url: https://connect.cfs-australasia.com
   - name: URL Shortener
-    url: https://cfsurveys.io
+    url: http://cfsurveys.io/admin
   - name: Snap Webhost
     url: https://surveys.cfs-australasia.com
   - name: Survey To Go
