@@ -5,7 +5,7 @@ repo: upptime # The name of this repository
 sites:
   - name: CFS Website
     url: https://www.cfs-australasia.com
-  - name: Front End
+  - name: Front End (API Server)
     url: https://connect.cfs-australasia.com
   - name: URL Shortener
     url: http://cfsurveys.io/admin
@@ -17,17 +17,17 @@ sites:
     url: https://grafana.cfs-australasia.com
   - name: Argo
     url: https://argo.cfs-australasia.com
-  - name: Audit Angels Ambulance Victoria - Test
-    url: https://test-audits.ambulance.vic.gov.au
-  - name: Audit Angels Ambulance Victoria - Prod
-    url: https://audits.ambulance.vic.gov.au
+  - name: Audit Angels Plus AV - Test
+    url: $AV_TEST
+  - name: Audit Angels Plus AV - Prod
+    url: $AV_PROD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cfs-australasia.com
   # baseUrl: /your-repo-name
-  theme: ocean
+  theme: dark
   favicon: https://www.cfs-australasia.com/wp-content/uploads/2020/04/favicon-32x32-1.png
   logoUrl: https://www.cfs-australasia.com/wp-content/uploads/2016/09/cfs-header-150.png
   name: Status
