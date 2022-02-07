@@ -21,8 +21,8 @@ sites:
     url: $AV_TEST
   - name: Audit Angels Plus AV - Prod
     url: $AV_PROD
-  - name: Broken site2
-    url: https://www.google.com
+  - name: Broken site3
+    url: http://broken.site.com.au
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
