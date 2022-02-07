@@ -27,7 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cfs-australasia.com
   # baseUrl: /your-repo-name
-  theme: dark
+  theme: ocean
   favicon: https://www.cfs-australasia.com/wp-content/uploads/2020/04/favicon-32x32-1.png
   logoUrl: https://www.cfs-australasia.com/wp-content/uploads/2016/09/cfs-header-150.png
   name: Status
