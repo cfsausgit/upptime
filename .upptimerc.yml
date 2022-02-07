@@ -22,7 +22,7 @@ sites:
   - name: Audit Angels Plus AV - Prod
     url: $AV_PROD
   - name: Broken site3
-    url: http://broken.site.com.au
+    url: http://www.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
