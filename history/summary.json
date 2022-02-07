@@ -167,18 +167,16 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "broken-site2",
     "status": "up",
-    "uptime": "1.95%",
-    "uptimeDay": "1.95%",
-    "uptimeWeek": "1.95%",
-    "uptimeMonth": "1.95%",
-    "uptimeYear": "1.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 58,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
-    "dailyMinutesDown": {
-      "2022-02-07": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
