@@ -6,17 +6,17 @@ sites:
   - name: CFS Website
     url: https://www.cfs-australasia.com
   - name: Front End (API Server)
-    url: https://connect.cfs-australasia.com
+    url: $CONNECT
   - name: URL Shortener
-    url: http://cfsurveys.io/admin
+    url: $SHORTENER
   - name: Snap Webhost
-    url: https://surveys.cfs-australasia.com
+    url: $SURVEYS
   - name: Survey To Go
-    url: https://audits.cfs-australasia.com
+    url: $STG
   - name: Grafana
-    url: https://grafana.cfs-australasia.com
+    url: $GRAFANA
   - name: Argo
-    url: https://argo.cfs-australasia.com
+    url: $ARGO
   - name: Audit Angels Plus AV - Test
     url: $AV_TEST
   - name: Audit Angels Plus AV - Prod
