@@ -17,8 +17,8 @@ sites:
     url: $GRAFANA
   - name: Argo
     url: $ARGO
-  - name: Airflow
-    url: $AIRFLOW
+#   - name: Airflow
+#     url: $AIRFLOW
   - name: Audit Angels Plus AV - Test
     url: $AV_TEST
   - name: Audit Angels Plus AV - Prod
