@@ -94,18 +94,20 @@
     "url": "$GRAFANA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1189,
-    "timeDay": 1264,
-    "timeWeek": 1201,
-    "timeMonth": 1189,
-    "timeYear": 1189,
-    "dailyMinutesDown": {}
+    "time": 1182,
+    "timeDay": 1069,
+    "timeWeek": 1160,
+    "timeMonth": 1182,
+    "timeYear": 1182,
+    "dailyMinutesDown": {
+      "2022-03-01": 0
+    }
   },
   {
     "name": "Argo",
