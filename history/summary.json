@@ -4,9 +4,9 @@
     "url": "https://www.cfs-australasia.com",
     "icon": "https://favicons.githubusercontent.com/www.cfs-australasia.com",
     "slug": "cfs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1033,
     "timeMonth": 687,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-10": 0
+    }
   },
   {
     "name": "Front End (API Server)",
