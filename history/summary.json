@@ -26,18 +26,19 @@
     "url": "$CONNECT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "front-end-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 831,
-    "timeDay": 917,
-    "timeWeek": 815,
+    "timeDay": 876,
+    "timeWeek": 817,
     "timeMonth": 830,
     "timeYear": 831,
     "dailyMinutesDown": {
+      "2022-04-17": 0,
       "2022-04-02": 21
     }
   },
