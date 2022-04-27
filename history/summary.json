@@ -4,9 +4,9 @@
     "url": "https://www.cfs-australasia.com",
     "icon": "https://favicons.githubusercontent.com/www.cfs-australasia.com",
     "slug": "cfs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -16,6 +16,7 @@
     "timeMonth": 1561,
     "timeYear": 981,
     "dailyMinutesDown": {
+      "2022-04-27": 0,
       "2022-04-06": 20,
       "2022-03-17": 45,
       "2022-03-10": 19
