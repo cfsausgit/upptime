@@ -2,11 +2,11 @@
   {
     "name": "CFS Website",
     "url": "https://www.cfs-australasia.com",
-    "icon": "https://favicons.githubusercontent.com/www.cfs-australasia.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.cfs-australasia.com.ico",
     "slug": "cfs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.91%",
@@ -16,6 +16,7 @@
     "timeMonth": 1259,
     "timeYear": 1193,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-09-27": 45,
       "2022-09-22": 15,
       "2022-09-15": 48,
@@ -31,7 +32,7 @@
   {
     "name": "Front End (API Server)",
     "url": "$CONNECT",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "front-end-api-server",
     "status": "up",
     "uptime": "99.98%",
@@ -53,7 +54,7 @@
   {
     "name": "URL Shortener",
     "url": "$SHORTENER",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "url-shortener",
     "status": "up",
     "uptime": "100.00%",
@@ -71,7 +72,7 @@
   {
     "name": "Snap Webhost",
     "url": "$SURVEYS",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "snap-webhost",
     "status": "up",
     "uptime": "100.00%",
@@ -89,7 +90,7 @@
   {
     "name": "Survey To Go",
     "url": "$STG",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "survey-to-go",
     "status": "up",
     "uptime": "100.00%",
@@ -107,7 +108,7 @@
   {
     "name": "Grafana",
     "url": "$GRAFANA",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grafana",
     "status": "up",
     "uptime": "99.82%",
@@ -131,7 +132,7 @@
   {
     "name": "Argo",
     "url": "$ARGO",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "argo",
     "status": "up",
     "uptime": "99.76%",
@@ -153,7 +154,7 @@
   {
     "name": "Audit Angels Plus AV - Test",
     "url": "$AV_TEST",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audit-angels-plus-av-test",
     "status": "up",
     "uptime": "99.99%",
@@ -173,7 +174,7 @@
   {
     "name": "Audit Angels Plus AV - Prod",
     "url": "$AV_PROD",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audit-angels-plus-av-prod",
     "status": "up",
     "uptime": "100.00%",
