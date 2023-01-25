@@ -84,18 +84,16 @@
     "slug": "snap-webhost",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
     "timeDay": 2464,
     "timeWeek": 1176,
     "timeMonth": 863,
     "timeYear": 794,
-    "dailyMinutesDown": {
-      "2023-01-25": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Survey To Go",
@@ -122,9 +120,9 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1174,
     "timeDay": 5374,
@@ -132,7 +130,6 @@
     "timeMonth": 1391,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2023-01-25": 6,
       "2022-08-01": 371,
       "2022-05-24": 135,
       "2022-04-28": 51,
@@ -147,9 +144,9 @@
     "slug": "argo",
     "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "98.70%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "98.67%",
     "uptimeYear": "99.69%",
     "time": 665,
     "timeDay": 677,
@@ -157,7 +154,7 @@
     "timeMonth": 819,
     "timeYear": 665,
     "dailyMinutesDown": {
-      "2023-01-25": 3,
+      "2023-01-25": 14,
       "2023-01-12": 565,
       "2023-01-11": 1,
       "2022-12-16": 29,
@@ -173,10 +170,10 @@
     "url": "$AV_TEST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audit-angels-plus-av-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1096,
@@ -185,6 +182,7 @@
     "timeMonth": 1068,
     "timeYear": 1096,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-05-19": 18
     }
   },
