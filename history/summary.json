@@ -82,18 +82,20 @@
     "url": "$SURVEYS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "snap-webhost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 785,
     "timeDay": 828,
     "timeWeek": 758,
     "timeMonth": 759,
     "timeYear": 785,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 3
+    }
   },
   {
     "name": "Survey To Go",
@@ -118,10 +120,10 @@
     "url": "$GRAFANA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1152,
@@ -130,6 +132,7 @@
     "timeMonth": 1131,
     "timeYear": 1152,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2022-08-01": 371,
       "2022-05-24": 135,
       "2022-04-28": 51,
