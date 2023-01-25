@@ -82,19 +82,19 @@
     "url": "$SURVEYS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "snap-webhost",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 2464,
-    "timeWeek": 1176,
-    "timeMonth": 863,
+    "timeDay": 1894,
+    "timeWeek": 1129,
+    "timeMonth": 860,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 11
     }
   },
   {
