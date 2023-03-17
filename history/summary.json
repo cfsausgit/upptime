@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1182,
-    "timeDay": 1145,
-    "timeWeek": 1237,
-    "timeMonth": 1299,
+    "timeDay": 1131,
+    "timeWeek": 1234,
+    "timeMonth": 1297,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2022-12-03": 32,
@@ -32,8 +32,7 @@
       "2022-08-11": 39,
       "2022-06-23": 17,
       "2022-04-27": 50,
-      "2022-04-06": 20,
-      "2022-03-17": 45
+      "2022-04-06": 20
     }
   },
   {
@@ -48,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 794,
-    "timeDay": 686,
-    "timeWeek": 772,
-    "timeMonth": 789,
+    "timeDay": 854,
+    "timeWeek": 766,
+    "timeMonth": 788,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2023-01-25": 31,
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 598,
-    "timeDay": 436,
-    "timeWeek": 581,
-    "timeMonth": 613,
+    "timeDay": 717,
+    "timeWeek": 595,
+    "timeMonth": 616,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2023-01-25": 29
@@ -91,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 587,
-    "timeWeek": 783,
-    "timeMonth": 788,
+    "timeDay": 849,
+    "timeWeek": 749,
+    "timeMonth": 787,
     "timeYear": 787,
     "dailyMinutesDown": {
       "2023-01-25": 26
@@ -111,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 263,
-    "timeDay": 432,
+    "timeDay": 104,
     "timeWeek": 294,
-    "timeMonth": 269,
+    "timeMonth": 267,
     "timeYear": 268,
     "dailyMinutesDown": {}
   },
@@ -129,9 +128,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1167,
-    "timeDay": 912,
-    "timeWeek": 1085,
-    "timeMonth": 1126,
+    "timeDay": 1274,
+    "timeWeek": 1084,
+    "timeMonth": 1125,
     "timeYear": 1164,
     "dailyMinutesDown": {
       "2022-08-01": 371,
@@ -147,14 +146,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "argo",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 661,
-    "timeDay": 504,
-    "timeWeek": 594,
+    "timeDay": 686,
+    "timeWeek": 592,
     "timeMonth": 633,
     "timeYear": 665,
     "dailyMinutesDown": {
@@ -180,9 +179,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1093,
-    "timeDay": 733,
-    "timeWeek": 1020,
-    "timeMonth": 1084,
+    "timeDay": 1289,
+    "timeWeek": 1019,
+    "timeMonth": 1085,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2022-05-19": 18
@@ -199,10 +198,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1098,
-    "timeDay": 728,
-    "timeWeek": 973,
-    "timeMonth": 1059,
+    "time": 1099,
+    "timeDay": 1260,
+    "timeWeek": 1002,
+    "timeMonth": 1067,
     "timeYear": 1103,
     "dailyMinutesDown": {}
   }
