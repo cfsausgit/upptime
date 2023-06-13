@@ -165,18 +165,20 @@
     "url": "$AV_TEST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audit-angels-plus-av-test",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1094,
+    "time": 1093,
     "timeDay": 1307,
     "timeWeek": 1081,
     "timeMonth": 1092,
     "timeYear": 1095,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-13": 0
+    }
   },
   {
     "name": "Audit Angels Plus AV - Prod",
