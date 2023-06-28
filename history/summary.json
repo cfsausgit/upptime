@@ -185,9 +185,9 @@
     "url": "$AV_PROD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "audit-angels-plus-av-prod",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -196,6 +196,8 @@
     "timeWeek": 1199,
     "timeMonth": 1413,
     "timeYear": 1125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-28": 0
+    }
   }
 ]
