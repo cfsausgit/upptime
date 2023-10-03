@@ -1,7 +1,7 @@
 url: $AV_TEST
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-02T23:12:49.691Z
+status: up
+code: 200
+responseTime: 1509
+lastUpdated: 2023-10-03T07:52:36.249Z
 startTime: 2022-02-07T00:14:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
