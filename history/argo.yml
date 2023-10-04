@@ -1,7 +1,7 @@
 url: $ARGO
-status: up
-code: 200
-responseTime: 752
-lastUpdated: 2023-10-03T23:12:19.597Z
+status: down
+code: 503
+responseTime: 699
+lastUpdated: 2023-10-04T10:30:17.377Z
 startTime: 2022-02-06T23:12:12.000Z
 generator: Upptime <https://github.com/upptime/upptime>
