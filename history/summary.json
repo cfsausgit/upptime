@@ -73,18 +73,19 @@
     "url": "$SURVEYS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "snap-webhost",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 776,
     "timeDay": 594,
     "timeWeek": 772,
     "timeMonth": 790,
     "timeYear": 776,
     "dailyMinutesDown": {
+      "2023-10-07": 0,
       "2023-01-25": 26
     }
   },
@@ -93,9 +94,9 @@
     "url": "$STG",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "survey-to-go",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,7 +105,9 @@
     "timeWeek": 226,
     "timeMonth": 241,
     "timeYear": 313,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-07": 0
+    }
   },
   {
     "name": "Grafana",
@@ -134,8 +137,8 @@
     "status": "down",
     "uptime": "98.47%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.37%",
-    "uptimeMonth": "87.66%",
+    "uptimeWeek": "46.22%",
+    "uptimeMonth": "87.63%",
     "uptimeYear": "97.60%",
     "time": 660,
     "timeDay": 0,
@@ -143,7 +146,7 @@
     "timeMonth": 692,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2023-10-07": 677,
+      "2023-10-07": 691,
       "2023-10-06": 1440,
       "2023-10-05": 923,
       "2023-10-04": 182,
@@ -174,7 +177,7 @@
     "status": "up",
     "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.17%",
+    "uptimeWeek": "59.31%",
     "uptimeMonth": "73.52%",
     "uptimeYear": "97.77%",
     "time": 1139,
@@ -215,7 +218,7 @@
     "timeMonth": 0,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2023-10-07": 677,
+      "2023-10-07": 691,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
