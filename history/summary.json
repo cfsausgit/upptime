@@ -4,13 +4,13 @@
     "url": "https://www.cfs-australasia.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.cfs-australasia.com.ico",
     "slug": "cfs-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "93.83%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "93.80%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.94%",
-    "time": 1307,
+    "time": 1308,
     "timeDay": 756,
     "timeWeek": 886,
     "timeMonth": 1539,
@@ -33,9 +33,9 @@
     "url": "$CONNECT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "front-end-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -45,6 +45,7 @@
     "timeMonth": 801,
     "timeYear": 776,
     "dailyMinutesDown": {
+      "2023-10-07": 0,
       "2023-01-25": 31
     }
   },
@@ -75,9 +76,9 @@
     "slug": "snap-webhost",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 776,
     "timeDay": 594,
@@ -85,7 +86,7 @@
     "timeMonth": 790,
     "timeYear": 776,
     "dailyMinutesDown": {
-      "2023-10-07": 0,
+      "2023-10-07": 8,
       "2023-01-25": 26
     }
   },
@@ -96,9 +97,9 @@
     "slug": "survey-to-go",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 306,
     "timeDay": 381,
@@ -106,7 +107,7 @@
     "timeMonth": 241,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2023-10-07": 0
+      "2023-10-07": 8
     }
   },
   {
@@ -114,9 +115,9 @@
     "url": "$GRAFANA",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -126,6 +127,7 @@
     "timeMonth": 1175,
     "timeYear": 1147,
     "dailyMinutesDown": {
+      "2023-10-07": 0,
       "2023-08-29": 41
     }
   },
@@ -135,10 +137,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "argo",
     "status": "down",
-    "uptime": "98.47%",
+    "uptime": "98.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "46.22%",
-    "uptimeMonth": "87.63%",
+    "uptimeWeek": "46.15%",
+    "uptimeMonth": "87.61%",
     "uptimeYear": "97.60%",
     "time": 660,
     "timeDay": 0,
@@ -146,7 +148,7 @@
     "timeMonth": 692,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2023-10-07": 691,
+      "2023-10-07": 699,
       "2023-10-06": 1440,
       "2023-10-05": 923,
       "2023-10-04": 182,
@@ -177,7 +179,7 @@
     "status": "up",
     "uptime": "98.66%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "59.31%",
+    "uptimeWeek": "59.39%",
     "uptimeMonth": "73.52%",
     "uptimeYear": "97.77%",
     "time": 1139,
@@ -218,7 +220,7 @@
     "timeMonth": 0,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2023-10-07": 691,
+      "2023-10-07": 699,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
