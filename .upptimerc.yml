@@ -19,10 +19,10 @@ sites:
     url: $ARGO
 #   - name: Airflow
 #     url: $AIRFLOW
-  - name: Audit Angels Plus AV - Test
-    url: $AV_TEST
-  - name: Audit Angels Plus AV - Prod
-    url: $AV_PROD
+  # - name: Audit Angels Plus AV - Test
+  #   url: $AV_TEST
+  # - name: Audit Angels Plus AV - Prod
+  #   url: $AV_PROD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
