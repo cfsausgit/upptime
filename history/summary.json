@@ -33,10 +33,10 @@
     "url": "$CONNECT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "front-end-api-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "84.75%",
-    "uptimeWeek": "97.25%",
+    "uptimeDay": "84.95%",
+    "uptimeWeek": "97.27%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.93%",
     "time": 828,
@@ -45,7 +45,7 @@
     "timeMonth": 1283,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2023-10-18": 220,
+      "2023-10-18": 217,
       "2023-10-16": 58,
       "2023-10-07": 49,
       "2023-01-25": 31
@@ -127,7 +127,7 @@
     "uptimeYear": "99.64%",
     "time": 1324,
     "timeDay": 8393,
-    "timeWeek": 1682,
+    "timeWeek": 1685,
     "timeMonth": 1668,
     "timeYear": 1377,
     "dailyMinutesDown": {
