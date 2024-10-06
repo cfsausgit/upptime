@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cfs-australasia.com.ico",
     "slug": "cfs-website",
     "status": "up",
-    "uptime": "88.18%",
+    "uptime": "88.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.68%",
-    "time": 1600,
-    "timeDay": 2066,
-    "timeWeek": 2835,
-    "timeMonth": 2522,
-    "timeYear": 1627,
+    "time": 1601,
+    "timeDay": 2511,
+    "timeWeek": 2810,
+    "timeMonth": 2512,
+    "timeYear": 1631,
     "dailyMinutesDown": {
       "2024-08-16": 1020,
       "2024-08-15": 1440,
@@ -131,8 +131,7 @@
       "2024-04-26": 1440,
       "2024-04-25": 1440,
       "2024-04-24": 720,
-      "2024-03-28": 19,
-      "2023-10-07": 138
+      "2024-03-28": 19
     }
   },
   {
@@ -147,18 +146,17 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 861,
-    "timeDay": 761,
-    "timeWeek": 847,
-    "timeMonth": 836,
-    "timeYear": 898,
+    "timeDay": 647,
+    "timeWeek": 811,
+    "timeMonth": 826,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2024-08-29": 24,
       "2023-11-08": 658,
       "2023-11-07": 781,
       "2023-10-19": 161,
       "2023-10-18": 253,
-      "2023-10-16": 58,
-      "2023-10-07": 49
+      "2023-10-16": 58
     }
   },
   {
@@ -173,10 +171,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 680,
-    "timeDay": 659,
-    "timeWeek": 739,
-    "timeMonth": 700,
-    "timeYear": 703,
+    "timeDay": 570,
+    "timeWeek": 707,
+    "timeMonth": 694,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2024-02-22": 35
     }
@@ -192,17 +190,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.19%",
-    "time": 780,
-    "timeDay": 732,
-    "timeWeek": 804,
-    "timeMonth": 795,
-    "timeYear": 783,
+    "time": 779,
+    "timeDay": 596,
+    "timeWeek": 764,
+    "timeMonth": 786,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2024-04-02": 600,
       "2024-04-01": 1440,
       "2024-03-31": 1395,
-      "2023-10-08": 62,
-      "2023-10-07": 749
+      "2023-10-08": 62
     }
   },
   {
@@ -211,18 +208,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "survey-to-go",
     "status": "down",
-    "uptime": "80.58%",
+    "uptime": "80.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "48.34%",
-    "time": 256,
+    "uptimeYear": "48.07%",
+    "time": 257,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 244,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2024-10-05": 36,
+      "2024-10-06": 41,
+      "2024-10-05": 1440,
       "2024-10-04": 1440,
       "2024-10-03": 1440,
       "2024-10-02": 1440,
@@ -411,8 +409,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 1440,
       "2024-03-31": 1395,
-      "2023-10-08": 62,
-      "2023-10-07": 749
+      "2023-10-08": 62
     }
   },
   {
@@ -427,9 +424,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.91%",
     "time": 1433,
-    "timeDay": 1211,
-    "timeWeek": 1252,
-    "timeMonth": 1208,
+    "timeDay": 877,
+    "timeWeek": 1180,
+    "timeMonth": 1193,
     "timeYear": 1531,
     "dailyMinutesDown": {
       "2023-11-08": 659,
@@ -450,8 +447,7 @@
       "2023-10-12": 155,
       "2023-10-11": 425,
       "2023-10-10": 268,
-      "2023-10-09": 168,
-      "2023-10-07": 49
+      "2023-10-09": 168
     }
   },
   {
@@ -464,11 +460,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "98.30%",
+    "uptimeYear": "98.49%",
     "time": 626,
-    "timeDay": 503,
-    "timeWeek": 597,
-    "timeMonth": 610,
+    "timeDay": 459,
+    "timeWeek": 570,
+    "timeMonth": 605,
     "timeYear": 621,
     "dailyMinutesDown": {
       "2024-09-17": 20,
@@ -477,8 +473,7 @@
       "2023-10-11": 730,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
-      "2023-10-08": 1440,
-      "2023-10-07": 1440
+      "2023-10-08": 1440
     }
   }
 ]
