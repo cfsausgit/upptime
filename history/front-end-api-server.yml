@@ -1,7 +1,7 @@
 url: $CONNECT
-status: down
-code: 502
-responseTime: 727
-lastUpdated: 2025-11-22T23:55:30.222Z
+status: up
+code: 200
+responseTime: 584
+lastUpdated: 2025-11-23T01:12:18.944Z
 startTime: 2022-02-07T00:14:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
