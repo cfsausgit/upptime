@@ -6,13 +6,13 @@
     "slug": "cfs-website",
     "status": "up",
     "uptime": "66.81%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "0.57%",
+    "uptimeDay": "6.50%",
+    "uptimeWeek": "0.93%",
+    "uptimeMonth": "1.59%",
+    "uptimeYear": "0.58%",
     "time": 432,
     "timeDay": 1472,
-    "timeWeek": 268,
+    "timeWeek": 284,
     "timeMonth": 164,
     "timeYear": 139,
     "dailyMinutesDown": {
@@ -378,8 +378,7 @@
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 764,
-      "2025-05-06": 583,
-      "2025-05-05": 1440
+      "2025-05-06": 583
     }
   },
   {
@@ -395,7 +394,7 @@
     "uptimeYear": "99.52%",
     "time": 669,
     "timeDay": 625,
-    "timeWeek": 631,
+    "timeWeek": 623,
     "timeMonth": 652,
     "timeYear": 653,
     "dailyMinutesDown": {
@@ -419,7 +418,7 @@
     "uptimeYear": "100.00%",
     "time": 672,
     "timeDay": 565,
-    "timeWeek": 613,
+    "timeWeek": 614,
     "timeMonth": 612,
     "timeYear": 677,
     "dailyMinutesDown": {}
@@ -437,7 +436,7 @@
     "uptimeYear": "100.00%",
     "time": 793,
     "timeDay": 831,
-    "timeWeek": 786,
+    "timeWeek": 775,
     "timeMonth": 786,
     "timeYear": 795,
     "dailyMinutesDown": {}
@@ -452,17 +451,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.61%",
     "time": 333,
     "timeDay": 267,
-    "timeWeek": 281,
+    "timeWeek": 282,
     "timeMonth": 290,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2026-03-22": 57,
       "2026-03-09": 60,
-      "2025-05-06": 598,
-      "2025-05-05": 1440
+      "2025-05-06": 598
     }
   },
   {
@@ -471,11 +469,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "grafana",
     "status": "up",
-    "uptime": "72.84%",
+    "uptime": "72.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.83%",
-    "uptimeYear": "7.54%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "7.56%",
     "time": 703,
     "timeDay": 683,
     "timeWeek": 621,
@@ -818,8 +816,7 @@
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
-      "2025-05-06": 1440,
-      "2025-05-05": 1440
+      "2025-05-06": 1440
     }
   },
   {
@@ -828,18 +825,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "argo",
     "status": "down",
-    "uptime": "88.26%",
+    "uptime": "88.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.09%",
+    "uptimeYear": "54.07%",
     "time": 602,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2026-05-04": 1434,
+      "2026-05-05": 87,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
