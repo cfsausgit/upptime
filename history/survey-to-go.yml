@@ -1,7 +1,7 @@
 url: $STG
-status: down
-code: 403
-responseTime: 26
-lastUpdated: 2026-06-10T06:02:44.816Z
+status: up
+code: 200
+responseTime: 171
+lastUpdated: 2026-06-10T10:16:58.975Z
 startTime: 2022-02-06T23:12:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
